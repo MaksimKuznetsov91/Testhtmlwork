@@ -1,0 +1,30 @@
+.pokol3 {
+    border-top: 50px;
+}
+.thrpkl {
+    border-top: 50px;
+}
+
+/* Стили для Footer */
+
+footer {
+	width: 98.4%;
+	float: left;
+	padding: 1%;
+	background-color: 	#3CB371;
+	border-top: 2px solid silver;
+	margin-top: 10px;
+    margin-right: 1.5px;
+}
+
+footer #social {
+	float: left;
+	width: 50%;
+}
+
+footer #rights {
+	float: right;
+	width: 50%;
+	text-align: right;
+	font-size: 1.1em;
+}
